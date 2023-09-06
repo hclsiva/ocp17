@@ -11,6 +11,7 @@
     <modules>
         <module>variables</module>
         <module>interfaces</module>
+        <module>streams</module>
     </modules>
 
     <properties>
